@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href=""><img src="https://discordbotslist.co/img/developer.gif"></a>
+  <a href=""><img src="https://ologyyvidss.com/imges/developer.gif"></a>
 </p>
 <hr/>
 <h4 align="center">I am a Developer of all types. I like to Code, Design, Innovate and Experiment. I am an enthusiastic person who loves to take up new challenges and learn new skills.</h4>
